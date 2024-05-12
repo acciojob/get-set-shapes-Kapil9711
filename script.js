@@ -10,7 +10,7 @@ class Rectangle {
 	
 }
 
-class Square extends Rectange {
+class Square extends Rectangle {
 	constructor(width){
 		super(width,width);
 		
